@@ -1,5 +1,4 @@
 console.log("Welcome");
-
-for(var i=0; i<5; i++){
-    console.log("hello from bug");
+for (var i= 0; i<5; i++){
+    console.log ("github");
 }
